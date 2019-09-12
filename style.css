@@ -1,6 +1,8 @@
 body{
 	margin: 0;
 	font-family: 'Open Sans Condensed', sans-serif;
+	background: url('images/canchadetenis.jpg') no-repeat center center fixed;
+	background-size: cover;
 }
 
 #wrapper{
@@ -8,7 +10,6 @@ body{
 	height: auto;
 	margin: 0 auto;
 	padding: 12px;
-	background: teal;
 }
 
 #title{
@@ -42,7 +43,7 @@ font-size: 48px;
 	width: 200px;
 	height: 200px;
 	border-radius: 200px;
-	background: blue;
+	background: url('images/nadal.jpg') no-repeat center center;
 
 }
 
@@ -50,7 +51,7 @@ font-size: 48px;
 	width: 200px;
 	height: 200px;
 	border-radius: 200px;
-	background: red;
+	background: url('images/federer.jpg') no-repeat center center;
 
 }
 
@@ -58,7 +59,7 @@ font-size: 48px;
 	width: 200px;
 	height: 200px;
 	border-radius: 200px;
-	background: green;
+	background: url('images/Djokovic.jpg') no-repeat center center;
 
 }
 
